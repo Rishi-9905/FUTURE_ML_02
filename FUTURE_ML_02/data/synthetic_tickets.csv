@@ -1,0 +1,2001 @@
+Ticket_ID,Text,Category,Priority
+TKT-1000,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1001,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1002,There is an unauthorized charge of $268 on my account.,Billing,High
+TKT-1003,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1004,URGENT: My account has been locked. Please unlock it.,Account,High
+TKT-1005,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1006,Can you delete my account permanently?,Account,Low
+TKT-1007,"Hello, There is an unauthorized charge of $160 on my account.",Billing,High
+TKT-1008,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-1009,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1010,Please help - There is an unauthorized charge of $335 on my account.,Billing,High
+TKT-1011,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1012,"Just wondering, Can you send me the receipt for order #6168?",Billing,Medium
+TKT-1013,I need to add another user to my enterprise plan.,Account,Low
+TKT-1014,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1015,My account has been locked. Please unlock it.,Account,High
+TKT-1016,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1017,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1018,Do you offer a discount for non-profits?,General Query,Low
+TKT-1019,"Hi, I was overcharged on my last invoice by $338. Please refund.",Billing,High
+TKT-1020,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1021,"Hello, There is an unauthorized charge of $330 on my account.",Billing,High
+TKT-1022,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1023,Where is your company located?,General Query,Low
+TKT-1024,Please help - There is an unauthorized charge of $258 on my account.,Billing,High
+TKT-1025,"Hello, I love your product, just wanted to say thanks!",General Query,Low
+TKT-1026,What are your business hours?,General Query,Low
+TKT-1027,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1028,"Hi, There is an unauthorized charge of $293 on my account.",Billing,High
+TKT-1029,Please help - I want to cancel my subscription and get a refund.,Billing,High
+TKT-1030,Why is my credit card failing to process?,Billing,Medium
+TKT-1031,"Hi, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1032,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1033,Please help - Can you send me the receipt for order #9786?,Billing,Medium
+TKT-1034,Can you send me the receipt for order #2235?,Billing,Medium
+TKT-1035,I was overcharged on my last invoice by $343. Please refund.,Billing,High
+TKT-1036,I need to add another user to my enterprise plan.,Account,Low
+TKT-1037,Please help - Do you offer a discount for non-profits?,General Query,Low
+TKT-1038,"Hi, Why is my credit card failing to process?",Billing,Medium
+TKT-1039,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,Low
+TKT-1040,Why is my credit card failing to process?,Billing,High
+TKT-1041,There is an unauthorized charge of $71 on my account.,Billing,High
+TKT-1042,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1043,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1044,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1045,"Hi, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1046,How do I change my email address?,Account,Low
+TKT-1047,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1048,"Just wondering, What are your business hours?",General Query,Low
+TKT-1049,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1050,I was overcharged on my last invoice by $260. Please refund.,Billing,Medium
+TKT-1051,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1052,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1053,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1054,"Hi, My account has been locked. Please unlock it.",Account,High
+TKT-1055,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1056,Can you send me the receipt for order #3900?,Billing,Low
+TKT-1057,My account has been locked. Please unlock it.,Account,High
+TKT-1058,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1059,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,High
+TKT-1060,"Just wondering, My account has been locked. Please unlock it.",Account,High
+TKT-1061,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1062,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1063,"Please help - I love your product, just wanted to say thanks!",General Query,Low
+TKT-1064,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-1065,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1066,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1067,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1068,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1069,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1070,My account has been locked. Please unlock it.,Account,High
+TKT-1071,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1072,Can you send me the receipt for order #2193?,Billing,Medium
+TKT-1073,"Hi, Can you send me the receipt for order #7291?",Billing,Medium
+TKT-1074,I need to add another user to my enterprise plan.,Account,Low
+TKT-1075,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1076,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1077,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1078,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1079,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1080,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1081,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1082,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-1083,"Just wondering, There is an unauthorized charge of $225 on my account.",Billing,High
+TKT-1084,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1085,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1086,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1087,I need to add another user to my enterprise plan.,Account,Low
+TKT-1088,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1089,Please help - I was overcharged on my last invoice by $246. Please refund.,Billing,High
+TKT-1090,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1091,URGENT: I was overcharged on my last invoice by $51. Please refund.,Billing,High
+TKT-1092,"Hi, I was overcharged on my last invoice by $45. Please refund.",Billing,High
+TKT-1093,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1094,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1095,URGENT: My account has been locked. Please unlock it.,Account,High
+TKT-1096,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1097,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1098,My account has been locked. Please unlock it.,Account,High
+TKT-1099,I was overcharged on my last invoice by $341. Please refund.,Billing,High
+TKT-1100,Why is my credit card failing to process?,Billing,Medium
+TKT-1101,Is there a free trial available?,General Query,Low
+TKT-1102,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1103,"Hello, The application keeps crashing on my Android phone.",Technical Issue,Medium
+TKT-1104,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1105,"Just wondering, Why is my credit card failing to process?",Billing,Low
+TKT-1106,URGENT: I need to add another user to my enterprise plan.,Account,Low
+TKT-1107,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1108,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1109,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1110,"Just wondering, How do I change my email address?",Account,Low
+TKT-1111,URGENT: Do you offer a discount for non-profits?,General Query,Low
+TKT-1112,Why is my credit card failing to process?,Billing,Medium
+TKT-1113,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1114,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1115,Can you send me the receipt for order #7565?,Billing,Low
+TKT-1116,Please help - I was overcharged on my last invoice by $425. Please refund.,Billing,High
+TKT-1117,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1118,"Hi, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1119,"Hello, What are your business hours?",General Query,Low
+TKT-1120,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1121,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1122,"Hello, Is there a free trial available?",General Query,Low
+TKT-1123,Do you offer a discount for non-profits?,General Query,Medium
+TKT-1124,I need to add another user to my enterprise plan.,Account,Low
+TKT-1125,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1126,"Just wondering, There is an unauthorized charge of $231 on my account.",Billing,High
+TKT-1127,Please help - Your website is loading very slowly today.,Technical Issue,High
+TKT-1128,Please help - Is there a free trial available?,General Query,Low
+TKT-1129,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1130,URGENT: There is an unauthorized charge of $493 on my account.,Billing,High
+TKT-1131,"Just wondering, There is an unauthorized charge of $405 on my account.",Billing,High
+TKT-1132,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1133,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1134,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Low
+TKT-1135,"Hi, There is an unauthorized charge of $91 on my account.",Billing,Medium
+TKT-1136,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1137,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1138,Do you offer a discount for non-profits?,General Query,Low
+TKT-1139,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1140,URGENT: How do I change my email address?,Account,Low
+TKT-1141,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1142,URGENT: Where is your company located?,General Query,Low
+TKT-1143,I need to add another user to my enterprise plan.,Account,Low
+TKT-1144,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1145,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1146,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1147,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1148,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-1149,"Hi, Why is my credit card failing to process?",Billing,Medium
+TKT-1150,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-1151,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1152,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1153,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1154,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1155,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1156,Please help - Can you send me the receipt for order #5097?,Billing,Medium
+TKT-1157,I need to add another user to my enterprise plan.,Account,Low
+TKT-1158,Is there a free trial available?,General Query,Low
+TKT-1159,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1160,"Hello, I love your product, just wanted to say thanks!",General Query,Low
+TKT-1161,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1162,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1163,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1164,Please help - What are your business hours?,General Query,Low
+TKT-1165,"Hello, Do you offer a discount for non-profits?",General Query,Low
+TKT-1166,Can you delete my account permanently?,Account,Low
+TKT-1167,Can you send me the receipt for order #3024?,Billing,Medium
+TKT-1168,"Just wondering, I was overcharged on my last invoice by $205. Please refund.",Billing,High
+TKT-1169,Please help - Can you delete my account permanently?,Account,Low
+TKT-1170,Do you offer a discount for non-profits?,General Query,Low
+TKT-1171,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1172,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1173,I need to add another user to my enterprise plan.,Account,Low
+TKT-1174,Why is my credit card failing to process?,Billing,Medium
+TKT-1175,Can you delete my account permanently?,Account,Low
+TKT-1176,I was overcharged on my last invoice by $151. Please refund.,Billing,High
+TKT-1177,"Hello, I was overcharged on my last invoice by $118. Please refund.",Billing,High
+TKT-1178,"Hello, Can you delete my account permanently?",Account,Low
+TKT-1179,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1180,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1181,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1182,URGENT: I was overcharged on my last invoice by $225. Please refund.,Billing,High
+TKT-1183,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1184,My account has been locked. Please unlock it.,Account,High
+TKT-1185,Please help - Can you send me the receipt for order #7580?,Billing,Medium
+TKT-1186,"Just wondering, There is an unauthorized charge of $51 on my account.",Billing,High
+TKT-1187,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1188,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1189,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-1190,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1191,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1192,Can you delete my account permanently?,Account,Low
+TKT-1193,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1194,What are your business hours?,General Query,Low
+TKT-1195,I was overcharged on my last invoice by $256. Please refund.,Billing,High
+TKT-1196,Can you send me the receipt for order #4705?,Billing,Medium
+TKT-1197,Can you delete my account permanently?,Account,Low
+TKT-1198,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1199,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1200,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-1201,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1202,I was overcharged on my last invoice by $396. Please refund.,Billing,High
+TKT-1203,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1204,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1205,I was overcharged on my last invoice by $212. Please refund.,Billing,High
+TKT-1206,Please help - My account has been locked. Please unlock it.,Account,High
+TKT-1207,Why is my credit card failing to process?,Billing,Medium
+TKT-1208,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1209,Can you delete my account permanently?,Account,Low
+TKT-1210,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1211,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1212,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1213,"Just wondering, I was overcharged on my last invoice by $408. Please refund.",Billing,High
+TKT-1214,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1215,"Hello, How do I change my email address?",Account,Low
+TKT-1216,How do I change my email address?,Account,Low
+TKT-1217,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1218,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1219,Please help - My account has been locked. Please unlock it.,Account,High
+TKT-1220,I was overcharged on my last invoice by $198. Please refund.,Billing,High
+TKT-1221,Can you send me the receipt for order #9307?,Billing,Medium
+TKT-1222,I need to add another user to my enterprise plan.,Account,Low
+TKT-1223,"Hi, There is an unauthorized charge of $319 on my account.",Billing,High
+TKT-1224,"Hello, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1225,URGENT: Can you delete my account permanently?,Account,Low
+TKT-1226,Your website is loading very slowly today.,Technical Issue,Low
+TKT-1227,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1228,URGENT: What are your business hours?,General Query,Low
+TKT-1229,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1230,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1231,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-1232,Why is my credit card failing to process?,Billing,Medium
+TKT-1233,I was overcharged on my last invoice by $80. Please refund.,Billing,High
+TKT-1234,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1235,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1236,I need to add another user to my enterprise plan.,Account,Medium
+TKT-1237,Please help - Can you send me the receipt for order #5668?,Billing,Medium
+TKT-1238,"URGENT: I love your product, just wanted to say thanks!",General Query,Low
+TKT-1239,I need to add another user to my enterprise plan.,Account,Low
+TKT-1240,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1241,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1242,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-1243,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-1244,Why is my credit card failing to process?,Billing,High
+TKT-1245,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1246,Can you send me the receipt for order #8685?,Billing,Medium
+TKT-1247,There is an unauthorized charge of $120 on my account.,Billing,High
+TKT-1248,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1249,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1250,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1251,There is an unauthorized charge of $190 on my account.,Billing,High
+TKT-1252,There is an unauthorized charge of $194 on my account.,Billing,High
+TKT-1253,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1254,I was overcharged on my last invoice by $18. Please refund.,Billing,High
+TKT-1255,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Low
+TKT-1256,I need to add another user to my enterprise plan.,Account,Low
+TKT-1257,"Hello, I was overcharged on my last invoice by $407. Please refund.",Billing,High
+TKT-1258,Can you delete my account permanently?,Account,Low
+TKT-1259,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1260,Please help - I forgot my password and the reset link is not working.,Account,Medium
+TKT-1261,Please help - My account has been locked. Please unlock it.,Account,High
+TKT-1262,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1263,URGENT: There is an unauthorized charge of $318 on my account.,Billing,High
+TKT-1264,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1265,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1266,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1267,"Hello, There is an unauthorized charge of $25 on my account.",Billing,High
+TKT-1268,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1269,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1270,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1271,There is an unauthorized charge of $105 on my account.,Billing,High
+TKT-1272,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-1273,Can you send me the receipt for order #2213?,Billing,Medium
+TKT-1274,What are your business hours?,General Query,Low
+TKT-1275,Why is my credit card failing to process?,Billing,Medium
+TKT-1276,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-1277,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1278,"Just wondering, I love your product, just wanted to say thanks!",General Query,Low
+TKT-1279,Can you send me the receipt for order #2215?,Billing,Medium
+TKT-1280,Why is my credit card failing to process?,Billing,Medium
+TKT-1281,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-1282,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1283,There is an unauthorized charge of $330 on my account.,Billing,High
+TKT-1284,Why is my credit card failing to process?,Billing,Medium
+TKT-1285,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Low
+TKT-1286,"Just wondering, There is an unauthorized charge of $117 on my account.",Billing,High
+TKT-1287,Can you send me the receipt for order #5949?,Billing,Medium
+TKT-1288,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1289,URGENT: I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1290,"Please help - I love your product, just wanted to say thanks!",General Query,Low
+TKT-1291,Why is my credit card failing to process?,Billing,Medium
+TKT-1292,How do I change my email address?,Account,Low
+TKT-1293,URGENT: I need to add another user to my enterprise plan.,Account,Low
+TKT-1294,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1295,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1296,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1297,My account has been locked. Please unlock it.,Account,High
+TKT-1298,"Just wondering, I was overcharged on my last invoice by $293. Please refund.",Billing,High
+TKT-1299,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-1300,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1301,"Just wondering, Can you send me the receipt for order #6456?",Billing,Medium
+TKT-1302,Why is my credit card failing to process?,Billing,Medium
+TKT-1303,Can you delete my account permanently?,Account,Low
+TKT-1304,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1305,"Just wondering, Do you offer a discount for non-profits?",General Query,Low
+TKT-1306,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1307,"Just wondering, How do I change my email address?",Account,Low
+TKT-1308,Please help - Do you offer a discount for non-profits?,General Query,Low
+TKT-1309,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1310,Please help - Can you delete my account permanently?,Account,Low
+TKT-1311,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1312,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1313,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1314,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1315,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1316,"Hi, How do I change my email address?",Account,Low
+TKT-1317,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1318,Why is my credit card failing to process?,Billing,Medium
+TKT-1319,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-1320,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Low
+TKT-1321,Can you send me the receipt for order #8793?,Billing,Medium
+TKT-1322,"Hi, I was overcharged on my last invoice by $156. Please refund.",Billing,High
+TKT-1323,Please help - Where is your company located?,General Query,Low
+TKT-1324,I forgot my password and the reset link is not working.,Account,Low
+TKT-1325,Is there a free trial available?,General Query,Low
+TKT-1326,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1327,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1328,How do I change my email address?,Account,Low
+TKT-1329,"Hello, The application keeps crashing on my Android phone.",Technical Issue,Low
+TKT-1330,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1331,What are your business hours?,General Query,Low
+TKT-1332,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1333,Do you offer a discount for non-profits?,General Query,Low
+TKT-1334,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1335,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1336,Please help - Can you delete my account permanently?,Account,Low
+TKT-1337,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1338,Where is your company located?,General Query,Low
+TKT-1339,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1340,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1341,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1342,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1343,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1344,Please help - My account has been locked. Please unlock it.,Account,High
+TKT-1345,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1346,"Hi, Where is your company located?",General Query,Low
+TKT-1347,"Hello, Can you delete my account permanently?",Account,Low
+TKT-1348,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1349,Can you delete my account permanently?,Account,Low
+TKT-1350,"Hi, I was overcharged on my last invoice by $115. Please refund.",Billing,High
+TKT-1351,"Hi, Can you send me the receipt for order #7590?",Billing,Medium
+TKT-1352,There is an unauthorized charge of $158 on my account.,Billing,High
+TKT-1353,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1354,The application keeps crashing on my Android phone.,Technical Issue,Low
+TKT-1355,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1356,"Hello, I love your product, just wanted to say thanks!",General Query,Low
+TKT-1357,"Hello, Can you send me the receipt for order #9813?",Billing,Medium
+TKT-1358,"Just wondering, Can you delete my account permanently?",Account,Low
+TKT-1359,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-1360,How do I change my email address?,Account,Medium
+TKT-1361,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1362,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1363,Can you send me the receipt for order #2922?,Billing,Medium
+TKT-1364,Please help - Can you delete my account permanently?,Account,Low
+TKT-1365,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1366,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1367,Why is my credit card failing to process?,Billing,Low
+TKT-1368,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1369,Please help - My account has been locked. Please unlock it.,Account,High
+TKT-1370,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1371,I was overcharged on my last invoice by $465. Please refund.,Billing,High
+TKT-1372,I was overcharged on my last invoice by $428. Please refund.,Billing,High
+TKT-1373,"Hi, I was overcharged on my last invoice by $372. Please refund.",Billing,High
+TKT-1374,API endpoint /v1/users is returning a timeout.,Technical Issue,Low
+TKT-1375,Please help - There is an unauthorized charge of $281 on my account.,Billing,High
+TKT-1376,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1377,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1378,There is an unauthorized charge of $217 on my account.,Billing,High
+TKT-1379,Please help - I was overcharged on my last invoice by $433. Please refund.,Billing,Medium
+TKT-1380,URGENT: I was overcharged on my last invoice by $14. Please refund.,Billing,High
+TKT-1381,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1382,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1383,I was overcharged on my last invoice by $485. Please refund.,Billing,High
+TKT-1384,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1385,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1386,"Hi, There is an unauthorized charge of $362 on my account.",Billing,High
+TKT-1387,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1388,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1389,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1390,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1391,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1392,Please help - What are your business hours?,General Query,Low
+TKT-1393,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1394,"Hi, Can you send me the receipt for order #6315?",Billing,Medium
+TKT-1395,Can you delete my account permanently?,Account,Low
+TKT-1396,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1397,I was overcharged on my last invoice by $163. Please refund.,Billing,High
+TKT-1398,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-1399,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1400,Can you send me the receipt for order #4290?,Billing,Medium
+TKT-1401,"URGENT: I love your product, just wanted to say thanks!",General Query,Low
+TKT-1402,"Just wondering, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1403,URGENT: Can you send me the receipt for order #1440?,Billing,Medium
+TKT-1404,URGENT: I need to add another user to my enterprise plan.,Account,Low
+TKT-1405,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Low
+TKT-1406,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1407,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1408,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1409,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1410,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1411,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1412,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1413,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1414,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Medium
+TKT-1415,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1416,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1417,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1418,There is an unauthorized charge of $395 on my account.,Billing,High
+TKT-1419,Can you send me the receipt for order #4228?,Billing,Medium
+TKT-1420,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1421,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1422,"Hi, How do I change my email address?",Account,Low
+TKT-1423,There is an unauthorized charge of $365 on my account.,Billing,High
+TKT-1424,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1425,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1426,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1427,Please help - Is there a free trial available?,General Query,Low
+TKT-1428,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1429,There is an unauthorized charge of $409 on my account.,Billing,High
+TKT-1430,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1431,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1432,URGENT: I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1433,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1434,"Hello, There is an unauthorized charge of $387 on my account.",Billing,High
+TKT-1435,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1436,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1437,Where is your company located?,General Query,Low
+TKT-1438,Where is your company located?,General Query,Low
+TKT-1439,I need to add another user to my enterprise plan.,Account,Low
+TKT-1440,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1441,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1442,Can you send me the receipt for order #2526?,Billing,Medium
+TKT-1443,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-1444,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1445,"Hello, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1446,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1447,URGENT: My account has been locked. Please unlock it.,Account,Medium
+TKT-1448,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1449,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1450,I was overcharged on my last invoice by $358. Please refund.,Billing,Medium
+TKT-1451,"Hi, Is there a free trial available?",General Query,Medium
+TKT-1452,Why is my credit card failing to process?,Billing,Medium
+TKT-1453,"Hello, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1454,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1455,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1456,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1457,I was overcharged on my last invoice by $317. Please refund.,Billing,High
+TKT-1458,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1459,"Just wondering, I need to add another user to my enterprise plan.",Account,Low
+TKT-1460,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1461,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1462,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1463,What are your business hours?,General Query,Low
+TKT-1464,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1465,"Hello, I was overcharged on my last invoice by $52. Please refund.",Billing,High
+TKT-1466,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1467,"Just wondering, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1468,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1469,There is an unauthorized charge of $497 on my account.,Billing,High
+TKT-1470,"Hi, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1471,Your website is loading very slowly today.,Technical Issue,Low
+TKT-1472,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1473,I was overcharged on my last invoice by $90. Please refund.,Billing,High
+TKT-1474,Please help - I was overcharged on my last invoice by $389. Please refund.,Billing,High
+TKT-1475,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1476,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1477,I was overcharged on my last invoice by $49. Please refund.,Billing,High
+TKT-1478,Please help - I was overcharged on my last invoice by $421. Please refund.,Billing,High
+TKT-1479,"Hello, My account has been locked. Please unlock it.",Account,Medium
+TKT-1480,Please help - There is an unauthorized charge of $411 on my account.,Billing,High
+TKT-1481,"Hi, I love your product, just wanted to say thanks!",General Query,Low
+TKT-1482,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1483,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-1484,"Hello, Can you send me the receipt for order #4902?",Billing,Medium
+TKT-1485,How do I change my email address?,Account,Low
+TKT-1486,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1487,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1488,Can you send me the receipt for order #6161?,Billing,Medium
+TKT-1489,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1490,"Just wondering, Can you send me the receipt for order #3693?",Billing,Medium
+TKT-1491,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1492,"Hello, There is an unauthorized charge of $423 on my account.",Billing,Medium
+TKT-1493,"Hello, Do you offer a discount for non-profits?",General Query,Low
+TKT-1494,Please help - There is an unauthorized charge of $217 on my account.,Billing,High
+TKT-1495,Please help - I was overcharged on my last invoice by $416. Please refund.,Billing,High
+TKT-1496,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1497,URGENT: Can you send me the receipt for order #4239?,Billing,Medium
+TKT-1498,I was overcharged on my last invoice by $492. Please refund.,Billing,High
+TKT-1499,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-1500,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1501,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1502,Why is my credit card failing to process?,Billing,Medium
+TKT-1503,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1504,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1505,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1506,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1507,Where is your company located?,General Query,Low
+TKT-1508,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1509,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1510,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1511,"Hi, There is an unauthorized charge of $424 on my account.",Billing,High
+TKT-1512,"Just wondering, I was overcharged on my last invoice by $318. Please refund.",Billing,High
+TKT-1513,Why is my credit card failing to process?,Billing,Medium
+TKT-1514,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1515,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1516,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1517,My account has been locked. Please unlock it.,Account,High
+TKT-1518,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1519,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1520,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1521,Is there a free trial available?,General Query,Low
+TKT-1522,I was overcharged on my last invoice by $173. Please refund.,Billing,High
+TKT-1523,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1524,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Medium
+TKT-1525,Please help - Is there a free trial available?,General Query,Low
+TKT-1526,Why is my credit card failing to process?,Billing,Medium
+TKT-1527,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1528,Can you delete my account permanently?,Account,Low
+TKT-1529,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1530,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1531,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1532,URGENT: Why is my credit card failing to process?,Billing,High
+TKT-1533,URGENT: How do I change my email address?,Account,High
+TKT-1534,URGENT: What are your business hours?,General Query,Low
+TKT-1535,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-1536,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1537,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1538,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1539,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1540,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1541,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1542,Where is your company located?,General Query,High
+TKT-1543,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1544,Is there a free trial available?,General Query,Low
+TKT-1545,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1546,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1547,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1548,I need to add another user to my enterprise plan.,Account,Low
+TKT-1549,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1550,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1551,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1552,How do I change my email address?,Account,Low
+TKT-1553,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1554,Can you send me the receipt for order #4463?,Billing,Medium
+TKT-1555,"Just wondering, Can you delete my account permanently?",Account,Low
+TKT-1556,Your website is loading very slowly today.,Technical Issue,High
+TKT-1557,I was overcharged on my last invoice by $39. Please refund.,Billing,High
+TKT-1558,I need to add another user to my enterprise plan.,Account,Low
+TKT-1559,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1560,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1561,Why is my credit card failing to process?,Billing,Medium
+TKT-1562,"Hi, Why is my credit card failing to process?",Billing,Medium
+TKT-1563,I need to add another user to my enterprise plan.,Account,Low
+TKT-1564,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1565,I need to add another user to my enterprise plan.,Account,Low
+TKT-1566,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1567,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1568,URGENT: My account has been locked. Please unlock it.,Account,High
+TKT-1569,What are your business hours?,General Query,Low
+TKT-1570,"Hi, How do I change my email address?",Account,Low
+TKT-1571,My account has been locked. Please unlock it.,Account,High
+TKT-1572,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1573,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1574,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1575,Why is my credit card failing to process?,Billing,Medium
+TKT-1576,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1577,My account has been locked. Please unlock it.,Account,High
+TKT-1578,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1579,Where is your company located?,General Query,Low
+TKT-1580,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1581,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1582,Please help - How do I change my email address?,Account,Low
+TKT-1583,"Hi, There is an unauthorized charge of $399 on my account.",Billing,High
+TKT-1584,"Hi, Can you send me the receipt for order #8035?",Billing,Medium
+TKT-1585,I was overcharged on my last invoice by $112. Please refund.,Billing,High
+TKT-1586,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1587,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1588,"Hello, There is an unauthorized charge of $158 on my account.",Billing,High
+TKT-1589,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1590,Why is my credit card failing to process?,Billing,Medium
+TKT-1591,"Just wondering, Can you send me the receipt for order #1612?",Billing,Medium
+TKT-1592,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1593,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1594,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1595,"Just wondering, Can you send me the receipt for order #3247?",Billing,Medium
+TKT-1596,URGENT: Can you send me the receipt for order #2741?,Billing,Medium
+TKT-1597,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-1598,"Hi, What are your business hours?",General Query,Low
+TKT-1599,Where is your company located?,General Query,Low
+TKT-1600,URGENT: I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1601,Why is my credit card failing to process?,Billing,Medium
+TKT-1602,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1603,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1604,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1605,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1606,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1607,Do you offer a discount for non-profits?,General Query,Low
+TKT-1608,How do I change my email address?,Account,Low
+TKT-1609,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1610,The application keeps crashing on my Android phone.,Technical Issue,Low
+TKT-1611,My account has been locked. Please unlock it.,Account,High
+TKT-1612,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1613,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1614,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-1615,"Hello, Where is your company located?",General Query,Low
+TKT-1616,"Hi, I was overcharged on my last invoice by $237. Please refund.",Billing,High
+TKT-1617,"Just wondering, Do you offer a discount for non-profits?",General Query,Low
+TKT-1618,There is an unauthorized charge of $56 on my account.,Billing,High
+TKT-1619,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1620,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1621,There is an unauthorized charge of $191 on my account.,Billing,High
+TKT-1622,Why is my credit card failing to process?,Billing,Medium
+TKT-1623,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1624,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1625,Can you send me the receipt for order #8381?,Billing,Medium
+TKT-1626,There is an unauthorized charge of $265 on my account.,Billing,High
+TKT-1627,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1628,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1629,I need to add another user to my enterprise plan.,Account,Low
+TKT-1630,"Hello, My account has been locked. Please unlock it.",Account,High
+TKT-1631,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1632,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1633,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1634,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1635,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1636,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,High
+TKT-1637,Where is your company located?,General Query,Low
+TKT-1638,"Just wondering, I was overcharged on my last invoice by $395. Please refund.",Billing,High
+TKT-1639,Can you delete my account permanently?,Account,Low
+TKT-1640,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-1641,What are your business hours?,General Query,Low
+TKT-1642,My account has been locked. Please unlock it.,Account,High
+TKT-1643,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1644,"Just wondering, I was overcharged on my last invoice by $98. Please refund.",Billing,High
+TKT-1645,I was overcharged on my last invoice by $92. Please refund.,Billing,High
+TKT-1646,There is an unauthorized charge of $88 on my account.,Billing,Low
+TKT-1647,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1648,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1649,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1650,Can you send me the receipt for order #9691?,Billing,Medium
+TKT-1651,What are your business hours?,General Query,Low
+TKT-1652,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1653,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1654,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1655,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1656,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1657,How do I change my email address?,Account,Low
+TKT-1658,Please help - Do you offer a discount for non-profits?,General Query,Low
+TKT-1659,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1660,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1661,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1662,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1663,"Hi, There is an unauthorized charge of $361 on my account.",Billing,Medium
+TKT-1664,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1665,My account has been locked. Please unlock it.,Account,High
+TKT-1666,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1667,"Hello, There is an unauthorized charge of $12 on my account.",Billing,High
+TKT-1668,How do I change my email address?,Account,Low
+TKT-1669,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1670,There is an unauthorized charge of $419 on my account.,Billing,High
+TKT-1671,I was overcharged on my last invoice by $44. Please refund.,Billing,High
+TKT-1672,Where is your company located?,General Query,Low
+TKT-1673,Is there a free trial available?,General Query,Low
+TKT-1674,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1675,URGENT: I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1676,"Hi, My account has been locked. Please unlock it.",Account,High
+TKT-1677,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1678,I was overcharged on my last invoice by $385. Please refund.,Billing,High
+TKT-1679,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1680,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1681,URGENT: I need to add another user to my enterprise plan.,Account,Low
+TKT-1682,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1683,There is an unauthorized charge of $91 on my account.,Billing,High
+TKT-1684,URGENT: What are your business hours?,General Query,Medium
+TKT-1685,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1686,"Just wondering, Do you offer a discount for non-profits?",General Query,Low
+TKT-1687,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1688,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1689,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1690,URGENT: Can you send me the receipt for order #3276?,Billing,Medium
+TKT-1691,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1692,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1693,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1694,"Hello, I was overcharged on my last invoice by $332. Please refund.",Billing,High
+TKT-1695,Can you send me the receipt for order #9464?,Billing,Medium
+TKT-1696,I was overcharged on my last invoice by $378. Please refund.,Billing,High
+TKT-1697,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1698,URGENT: Can you delete my account permanently?,Account,Low
+TKT-1699,"Hi, Where is your company located?",General Query,Low
+TKT-1700,Can you send me the receipt for order #9263?,Billing,Medium
+TKT-1701,Please help - There is an unauthorized charge of $471 on my account.,Billing,High
+TKT-1702,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1703,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1704,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1705,"Hello, Is there a free trial available?",General Query,Low
+TKT-1706,"Hello, I love your product, just wanted to say thanks!",General Query,Low
+TKT-1707,There is an unauthorized charge of $390 on my account.,Billing,High
+TKT-1708,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1709,Can you send me the receipt for order #9783?,Billing,Medium
+TKT-1710,Is there a free trial available?,General Query,Low
+TKT-1711,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1712,"Hello, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1713,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1714,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1715,"Just wondering, I forgot my password and the reset link is not working.",Account,High
+TKT-1716,"Just wondering, There is an unauthorized charge of $206 on my account.",Billing,High
+TKT-1717,"Just wondering, Can you send me the receipt for order #3871?",Billing,Medium
+TKT-1718,There is an unauthorized charge of $27 on my account.,Billing,High
+TKT-1719,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1720,I need to add another user to my enterprise plan.,Account,Low
+TKT-1721,Can you delete my account permanently?,Account,Low
+TKT-1722,What are your business hours?,General Query,Low
+TKT-1723,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1724,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1725,"Please help - I love your product, just wanted to say thanks!",General Query,Low
+TKT-1726,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1727,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-1728,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1729,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-1730,"Just wondering, Can you send me the receipt for order #3924?",Billing,Medium
+TKT-1731,"Hello, Can you send me the receipt for order #4115?",Billing,Medium
+TKT-1732,How do I change my email address?,Account,Low
+TKT-1733,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1734,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1735,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1736,"Just wondering, I was overcharged on my last invoice by $123. Please refund.",Billing,High
+TKT-1737,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-1738,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1739,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1740,URGENT: Where is your company located?,General Query,Low
+TKT-1741,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1742,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1743,Please help - How do I change my email address?,Account,Low
+TKT-1744,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1745,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,High
+TKT-1746,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1747,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1748,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-1749,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1750,I need to add another user to my enterprise plan.,Account,Low
+TKT-1751,URGENT: How do I change my email address?,Account,Low
+TKT-1752,My account has been locked. Please unlock it.,Account,High
+TKT-1753,"Hi, Is there a free trial available?",General Query,Low
+TKT-1754,"Hi, I was overcharged on my last invoice by $130. Please refund.",Billing,High
+TKT-1755,There is an unauthorized charge of $459 on my account.,Billing,Medium
+TKT-1756,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1757,"Hello, How do I change my email address?",Account,Low
+TKT-1758,I was overcharged on my last invoice by $439. Please refund.,Billing,Medium
+TKT-1759,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1760,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-1761,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1762,"Hi, My account has been locked. Please unlock it.",Account,High
+TKT-1763,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1764,The application keeps crashing on my Android phone.,Technical Issue,Medium
+TKT-1765,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1766,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1767,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1768,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1769,"Just wondering, Can you send me the receipt for order #2808?",Billing,Medium
+TKT-1770,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Low
+TKT-1771,Please help - I was overcharged on my last invoice by $74. Please refund.,Billing,High
+TKT-1772,"Hi, Can you send me the receipt for order #6104?",Billing,Medium
+TKT-1773,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1774,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1775,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1776,Can you send me the receipt for order #4415?,Billing,Medium
+TKT-1777,"URGENT: I love your product, just wanted to say thanks!",General Query,Low
+TKT-1778,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-1779,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1780,There is an unauthorized charge of $31 on my account.,Billing,High
+TKT-1781,There is an unauthorized charge of $265 on my account.,Billing,High
+TKT-1782,My account has been locked. Please unlock it.,Account,High
+TKT-1783,How do I change my email address?,Account,Low
+TKT-1784,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1785,Can you send me the receipt for order #8951?,Billing,Medium
+TKT-1786,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1787,URGENT: I was overcharged on my last invoice by $435. Please refund.,Billing,High
+TKT-1788,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1789,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1790,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1791,"Just wondering, Can you send me the receipt for order #6285?",Billing,Medium
+TKT-1792,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1793,Can you send me the receipt for order #7366?,Billing,Medium
+TKT-1794,"Hello, There is an unauthorized charge of $197 on my account.",Billing,High
+TKT-1795,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1796,"Just wondering, My account has been locked. Please unlock it.",Account,High
+TKT-1797,I want to cancel my subscription and get a refund.,Billing,High
+TKT-1798,"Hello, There is an unauthorized charge of $381 on my account.",Billing,High
+TKT-1799,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1800,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-1801,"Just wondering, There is an unauthorized charge of $102 on my account.",Billing,High
+TKT-1802,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1803,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1804,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1805,There is an unauthorized charge of $27 on my account.,Billing,High
+TKT-1806,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1807,URGENT: Do you offer a discount for non-profits?,General Query,Medium
+TKT-1808,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1809,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1810,"Just wondering, There is an unauthorized charge of $432 on my account.",Billing,High
+TKT-1811,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1812,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1813,"Just wondering, Do you offer a discount for non-profits?",General Query,Low
+TKT-1814,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1815,Please help - Do you offer a discount for non-profits?,General Query,Low
+TKT-1816,Please help - Can you send me the receipt for order #2352?,Billing,Medium
+TKT-1817,"Hello, Can you send me the receipt for order #9221?",Billing,Medium
+TKT-1818,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1819,"Just wondering, Where is your company located?",General Query,Medium
+TKT-1820,URGENT: Can you send me the receipt for order #7776?,Billing,Medium
+TKT-1821,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1822,URGENT: Is there a free trial available?,General Query,High
+TKT-1823,"Just wondering, I was overcharged on my last invoice by $382. Please refund.",Billing,High
+TKT-1824,Do you offer a discount for non-profits?,General Query,Low
+TKT-1825,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1826,There is an unauthorized charge of $277 on my account.,Billing,High
+TKT-1827,Can you send me the receipt for order #1301?,Billing,Medium
+TKT-1828,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1829,URGENT: I was overcharged on my last invoice by $248. Please refund.,Billing,High
+TKT-1830,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-1831,Do you offer a discount for non-profits?,General Query,Low
+TKT-1832,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1833,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1834,I was overcharged on my last invoice by $266. Please refund.,Billing,High
+TKT-1835,URGENT: Can you delete my account permanently?,Account,Low
+TKT-1836,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1837,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1838,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-1839,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1840,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1841,I was overcharged on my last invoice by $44. Please refund.,Billing,High
+TKT-1842,URGENT: Can you send me the receipt for order #6221?,Billing,Medium
+TKT-1843,Why is my credit card failing to process?,Billing,Medium
+TKT-1844,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1845,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1846,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-1847,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1848,URGENT: I need to add another user to my enterprise plan.,Account,Low
+TKT-1849,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-1850,Can you delete my account permanently?,Account,Low
+TKT-1851,"Hello, Can you send me the receipt for order #8399?",Billing,Medium
+TKT-1852,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1853,URGENT: Is there a free trial available?,General Query,Low
+TKT-1854,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1855,"Just wondering, Do you offer a discount for non-profits?",General Query,Low
+TKT-1856,"Hi, Where is your company located?",General Query,Low
+TKT-1857,Can you send me the receipt for order #4308?,Billing,Medium
+TKT-1858,URGENT: Do you offer a discount for non-profits?,General Query,Low
+TKT-1859,"Just wondering, There is an unauthorized charge of $372 on my account.",Billing,High
+TKT-1860,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1861,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-1862,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1863,Do you offer a discount for non-profits?,General Query,Low
+TKT-1864,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1865,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1866,URGENT: I was overcharged on my last invoice by $331. Please refund.,Billing,High
+TKT-1867,"Hi, There is an unauthorized charge of $447 on my account.",Billing,High
+TKT-1868,Why is my credit card failing to process?,Billing,Medium
+TKT-1869,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1870,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1871,URGENT: My account has been locked. Please unlock it.,Account,High
+TKT-1872,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1873,I was overcharged on my last invoice by $383. Please refund.,Billing,High
+TKT-1874,"Just wondering, Is there a free trial available?",General Query,Low
+TKT-1875,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1876,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1877,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1878,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1879,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1880,My account has been locked. Please unlock it.,Account,High
+TKT-1881,Please help - Where is your company located?,General Query,Low
+TKT-1882,Where is your company located?,General Query,Low
+TKT-1883,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-1884,URGENT: Can you delete my account permanently?,Account,Low
+TKT-1885,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1886,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1887,"Hi, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1888,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-1889,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1890,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1891,My account has been locked. Please unlock it.,Account,High
+TKT-1892,Please help - How do I change my email address?,Account,Low
+TKT-1893,"Just wondering, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1894,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1895,URGENT: How do I change my email address?,Account,Low
+TKT-1896,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1897,URGENT: I was overcharged on my last invoice by $328. Please refund.,Billing,High
+TKT-1898,"Just wondering, There is an unauthorized charge of $492 on my account.",Billing,High
+TKT-1899,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1900,Can you send me the receipt for order #2410?,Billing,Medium
+TKT-1901,"Hello, Can you delete my account permanently?",Account,Low
+TKT-1902,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1903,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1904,"Just wondering, How do I change my email address?",Account,Low
+TKT-1905,Why is my credit card failing to process?,Billing,Medium
+TKT-1906,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-1907,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1908,I was overcharged on my last invoice by $62. Please refund.,Billing,High
+TKT-1909,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-1910,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1911,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1912,"Just wondering, There is an unauthorized charge of $349 on my account.",Billing,High
+TKT-1913,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1914,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1915,There is an unauthorized charge of $428 on my account.,Billing,High
+TKT-1916,"Just wondering, Can you send me the receipt for order #3444?",Billing,Medium
+TKT-1917,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1918,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1919,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1920,Do you offer a discount for non-profits?,General Query,Low
+TKT-1921,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1922,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1923,How do I change my email address?,Account,Low
+TKT-1924,I was overcharged on my last invoice by $15. Please refund.,Billing,High
+TKT-1925,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1926,Can you delete my account permanently?,Account,Low
+TKT-1927,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1928,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1929,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-1930,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1931,I need to add another user to my enterprise plan.,Account,Low
+TKT-1932,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1933,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1934,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1935,There is an unauthorized charge of $95 on my account.,Billing,High
+TKT-1936,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1937,"Hi, My account has been locked. Please unlock it.",Account,High
+TKT-1938,URGENT: How do I change my email address?,Account,Low
+TKT-1939,There is an unauthorized charge of $67 on my account.,Billing,High
+TKT-1940,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1941,How do I change my email address?,Account,Low
+TKT-1942,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-1943,I was overcharged on my last invoice by $385. Please refund.,Billing,High
+TKT-1944,"Just wondering, Can you send me the receipt for order #8602?",Billing,Medium
+TKT-1945,Can you send me the receipt for order #7390?,Billing,Medium
+TKT-1946,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1947,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1948,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1949,Can you send me the receipt for order #7408?,Billing,Medium
+TKT-1950,Can you delete my account permanently?,Account,Low
+TKT-1951,"Hi, I was overcharged on my last invoice by $290. Please refund.",Billing,High
+TKT-1952,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1953,I was overcharged on my last invoice by $327. Please refund.,Billing,High
+TKT-1954,"Just wondering, I forgot my password and the reset link is not working.",Account,Low
+TKT-1955,"Hi, How do I change my email address?",Account,Low
+TKT-1956,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1957,Please help - I forgot my password and the reset link is not working.,Account,Medium
+TKT-1958,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-1959,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1960,"Hi, Can you send me the receipt for order #2740?",Billing,Medium
+TKT-1961,"Hi, Can you send me the receipt for order #5105?",Billing,Medium
+TKT-1962,Please help - What are your business hours?,General Query,Low
+TKT-1963,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1964,Please help - Can you delete my account permanently?,Account,Low
+TKT-1965,"Hi, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1966,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1967,There is an unauthorized charge of $113 on my account.,Billing,Medium
+TKT-1968,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-1969,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1970,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-1971,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1972,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1973,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1974,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1975,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-1976,I was overcharged on my last invoice by $428. Please refund.,Billing,High
+TKT-1977,Can you send me the receipt for order #4320?,Billing,Medium
+TKT-1978,I forgot my password and the reset link is not working.,Account,Medium
+TKT-1979,"Hi, I was overcharged on my last invoice by $438. Please refund.",Billing,High
+TKT-1980,Why is my credit card failing to process?,Billing,Medium
+TKT-1981,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Low
+TKT-1982,I forgot my password and the reset link is not working.,Account,High
+TKT-1983,I need to add another user to my enterprise plan.,Account,Low
+TKT-1984,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-1985,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-1986,"Hello, My account has been locked. Please unlock it.",Account,High
+TKT-1987,There is an unauthorized charge of $281 on my account.,Billing,High
+TKT-1988,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-1989,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-1990,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-1991,"Just wondering, I forgot my password and the reset link is not working.",Account,Medium
+TKT-1992,"Hello, Can you send me the receipt for order #1476?",Billing,Medium
+TKT-1993,I need to add another user to my enterprise plan.,Account,Low
+TKT-1994,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1995,Please help - I forgot my password and the reset link is not working.,Account,Medium
+TKT-1996,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-1997,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-1998,URGENT: Can you send me the receipt for order #2820?,Billing,Medium
+TKT-1999,There is an unauthorized charge of $161 on my account.,Billing,High
+TKT-2000,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2001,The application keeps crashing on my Android phone.,Technical Issue,Medium
+TKT-2002,There is an unauthorized charge of $177 on my account.,Billing,High
+TKT-2003,Please help - Is there a free trial available?,General Query,Low
+TKT-2004,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-2005,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2006,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2007,Why is my credit card failing to process?,Billing,Medium
+TKT-2008,I need to add another user to my enterprise plan.,Account,Low
+TKT-2009,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2010,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2011,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2012,I was overcharged on my last invoice by $460. Please refund.,Billing,High
+TKT-2013,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2014,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2015,There is an unauthorized charge of $68 on my account.,Billing,High
+TKT-2016,Please help - My account has been locked. Please unlock it.,Account,High
+TKT-2017,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2018,URGENT: Can you delete my account permanently?,Account,Low
+TKT-2019,"Hi, How do I change my email address?",Account,Low
+TKT-2020,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2021,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2022,"Hi, Is there a free trial available?",General Query,Low
+TKT-2023,Why is my credit card failing to process?,Billing,Medium
+TKT-2024,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2025,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2026,"Hi, Can you send me the receipt for order #4715?",Billing,Medium
+TKT-2027,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2028,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-2029,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2030,Why is my credit card failing to process?,Billing,Medium
+TKT-2031,"Hello, I was overcharged on my last invoice by $164. Please refund.",Billing,High
+TKT-2032,Where is your company located?,General Query,Low
+TKT-2033,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2034,Can you delete my account permanently?,Account,Low
+TKT-2035,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2036,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2037,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2038,Can you send me the receipt for order #9821?,Billing,Medium
+TKT-2039,Is there a free trial available?,General Query,Low
+TKT-2040,Is there a free trial available?,General Query,Low
+TKT-2041,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2042,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-2043,Can you send me the receipt for order #7944?,Billing,Medium
+TKT-2044,Can you send me the receipt for order #5968?,Billing,Medium
+TKT-2045,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Low
+TKT-2046,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2047,"Just wondering, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2048,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,High
+TKT-2049,Do you offer a discount for non-profits?,General Query,Low
+TKT-2050,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2051,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2052,What are your business hours?,General Query,Low
+TKT-2053,How do I change my email address?,Account,Low
+TKT-2054,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2055,What are your business hours?,General Query,Low
+TKT-2056,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2057,My account has been locked. Please unlock it.,Account,High
+TKT-2058,Please help - Why is my credit card failing to process?,Billing,Low
+TKT-2059,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2060,Can you delete my account permanently?,Account,Low
+TKT-2061,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2062,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2063,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2064,"Hi, Why is my credit card failing to process?",Billing,Medium
+TKT-2065,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Medium
+TKT-2066,URGENT: There is an unauthorized charge of $65 on my account.,Billing,High
+TKT-2067,I was overcharged on my last invoice by $164. Please refund.,Billing,High
+TKT-2068,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-2069,"Just wondering, Can you delete my account permanently?",Account,Low
+TKT-2070,"Just wondering, Can you delete my account permanently?",Account,Low
+TKT-2071,"Just wondering, How do I change my email address?",Account,Low
+TKT-2072,Why is my credit card failing to process?,Billing,Medium
+TKT-2073,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2074,"URGENT: I love your product, just wanted to say thanks!",General Query,Low
+TKT-2075,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-2076,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2077,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2078,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2079,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2080,There is an unauthorized charge of $212 on my account.,Billing,High
+TKT-2081,"Just wondering, My account has been locked. Please unlock it.",Account,High
+TKT-2082,How do I change my email address?,Account,Low
+TKT-2083,Can you send me the receipt for order #5472?,Billing,Medium
+TKT-2084,"Hi, What are your business hours?",General Query,Low
+TKT-2085,"Hi, Why is my credit card failing to process?",Billing,Low
+TKT-2086,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2087,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2088,Can you send me the receipt for order #9157?,Billing,Medium
+TKT-2089,Please help - I forgot my password and the reset link is not working.,Account,Medium
+TKT-2090,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-2091,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-2092,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2093,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2094,URGENT: The application keeps crashing on my Android phone.,Technical Issue,Low
+TKT-2095,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2096,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2097,URGENT: Do you offer a discount for non-profits?,General Query,Low
+TKT-2098,"Hi, There is an unauthorized charge of $346 on my account.",Billing,High
+TKT-2099,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2100,Why is my credit card failing to process?,Billing,Medium
+TKT-2101,Can you delete my account permanently?,Account,Low
+TKT-2102,URGENT: There is an unauthorized charge of $335 on my account.,Billing,High
+TKT-2103,"Just wondering, I love your product, just wanted to say thanks!",General Query,Low
+TKT-2104,I was overcharged on my last invoice by $182. Please refund.,Billing,High
+TKT-2105,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2106,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2107,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-2108,There is an unauthorized charge of $336 on my account.,Billing,High
+TKT-2109,"Hello, I love your product, just wanted to say thanks!",General Query,Low
+TKT-2110,Can you send me the receipt for order #5919?,Billing,Medium
+TKT-2111,"Hello, Is there a free trial available?",General Query,Low
+TKT-2112,"Hi, Can you send me the receipt for order #4868?",Billing,Medium
+TKT-2113,Can you send me the receipt for order #6087?,Billing,Medium
+TKT-2114,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2115,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2116,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2117,Do you offer a discount for non-profits?,General Query,Low
+TKT-2118,Can you delete my account permanently?,Account,Low
+TKT-2119,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2120,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2121,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-2122,"Just wondering, What are your business hours?",General Query,Low
+TKT-2123,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2124,URGENT: What are your business hours?,General Query,Low
+TKT-2125,I was overcharged on my last invoice by $473. Please refund.,Billing,High
+TKT-2126,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2127,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2128,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2129,How do I change my email address?,Account,Low
+TKT-2130,Please help - I forgot my password and the reset link is not working.,Account,Medium
+TKT-2131,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2132,Can you delete my account permanently?,Account,Medium
+TKT-2133,I need to add another user to my enterprise plan.,Account,Low
+TKT-2134,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,High
+TKT-2135,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2136,Can you delete my account permanently?,Account,Low
+TKT-2137,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2138,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2139,Do you offer a discount for non-profits?,General Query,Low
+TKT-2140,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2141,URGENT: There is an unauthorized charge of $326 on my account.,Billing,High
+TKT-2142,Please help - I was overcharged on my last invoice by $300. Please refund.,Billing,High
+TKT-2143,URGENT: How do I change my email address?,Account,Low
+TKT-2144,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-2145,Is there a free trial available?,General Query,Low
+TKT-2146,"Just wondering, There is an unauthorized charge of $144 on my account.",Billing,High
+TKT-2147,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2148,Is there a free trial available?,General Query,Low
+TKT-2149,URGENT: I was overcharged on my last invoice by $58. Please refund.,Billing,High
+TKT-2150,Do you offer a discount for non-profits?,General Query,Low
+TKT-2151,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2152,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2153,"Hi, Can you send me the receipt for order #9690?",Billing,Medium
+TKT-2154,URGENT: What are your business hours?,General Query,Low
+TKT-2155,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2156,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2157,URGENT: How do I change my email address?,Account,High
+TKT-2158,I was overcharged on my last invoice by $249. Please refund.,Billing,High
+TKT-2159,Can you send me the receipt for order #8949?,Billing,Medium
+TKT-2160,"Hello, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2161,Can you delete my account permanently?,Account,Low
+TKT-2162,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2163,I want to cancel my subscription and get a refund.,Billing,Low
+TKT-2164,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2165,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2166,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2167,Where is your company located?,General Query,Low
+TKT-2168,I was overcharged on my last invoice by $418. Please refund.,Billing,High
+TKT-2169,Why is my credit card failing to process?,Billing,Medium
+TKT-2170,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-2171,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2172,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2173,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2174,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Medium
+TKT-2175,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2176,"Hello, I was overcharged on my last invoice by $249. Please refund.",Billing,High
+TKT-2177,"Hi, Where is your company located?",General Query,Low
+TKT-2178,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2179,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2180,Why is my credit card failing to process?,Billing,Medium
+TKT-2181,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2182,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2183,"Hi, Can you send me the receipt for order #2742?",Billing,Medium
+TKT-2184,Can you send me the receipt for order #8817?,Billing,Medium
+TKT-2185,What are your business hours?,General Query,Low
+TKT-2186,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2187,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2188,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2189,Please help - Can you send me the receipt for order #3497?,Billing,Medium
+TKT-2190,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2191,Can you send me the receipt for order #8074?,Billing,Medium
+TKT-2192,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2193,How do I change my email address?,Account,Low
+TKT-2194,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2195,URGENT: Can you send me the receipt for order #6681?,Billing,Medium
+TKT-2196,URGENT: I need to add another user to my enterprise plan.,Account,Low
+TKT-2197,Where is your company located?,General Query,Low
+TKT-2198,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2199,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2200,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2201,"Just wondering, What are your business hours?",General Query,Low
+TKT-2202,"Just wondering, Can you send me the receipt for order #6533?",Billing,Medium
+TKT-2203,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2204,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2205,Do you offer a discount for non-profits?,General Query,Low
+TKT-2206,"Hi, Your website is loading very slowly today.",Technical Issue,High
+TKT-2207,How do I change my email address?,Account,Low
+TKT-2208,"Hello, How do I change my email address?",Account,Low
+TKT-2209,Please help - Can you send me the receipt for order #8194?,Billing,Medium
+TKT-2210,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2211,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2212,I need to add another user to my enterprise plan.,Account,Low
+TKT-2213,Do you offer a discount for non-profits?,General Query,Low
+TKT-2214,"Hello, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2215,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2216,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2217,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2218,Why is my credit card failing to process?,Billing,Medium
+TKT-2219,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2220,Can you send me the receipt for order #6480?,Billing,Medium
+TKT-2221,URGENT: Why is my credit card failing to process?,Billing,Low
+TKT-2222,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2223,"Hi, Can you send me the receipt for order #5979?",Billing,Medium
+TKT-2224,My account has been locked. Please unlock it.,Account,High
+TKT-2225,"Hello, I love your product, just wanted to say thanks!",General Query,Low
+TKT-2226,"Just wondering, Can you delete my account permanently?",Account,Low
+TKT-2227,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2228,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Low
+TKT-2229,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-2230,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2231,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2232,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2233,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2234,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2235,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2236,URGENT: I was overcharged on my last invoice by $311. Please refund.,Billing,High
+TKT-2237,"Hi, I was overcharged on my last invoice by $429. Please refund.",Billing,High
+TKT-2238,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2239,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2240,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2241,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2242,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2243,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2244,There is an unauthorized charge of $499 on my account.,Billing,High
+TKT-2245,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2246,Why is my credit card failing to process?,Billing,Medium
+TKT-2247,"Hi, Can you delete my account permanently?",Account,Low
+TKT-2248,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2249,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2250,I was overcharged on my last invoice by $103. Please refund.,Billing,High
+TKT-2251,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,High
+TKT-2252,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2253,"Just wondering, There is an unauthorized charge of $113 on my account.",Billing,High
+TKT-2254,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2255,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2256,Where is your company located?,General Query,Low
+TKT-2257,Can you send me the receipt for order #7664?,Billing,Low
+TKT-2258,Can you delete my account permanently?,Account,Low
+TKT-2259,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Medium
+TKT-2260,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Medium
+TKT-2261,How do I change my email address?,Account,Low
+TKT-2262,"Hi, There is an unauthorized charge of $388 on my account.",Billing,High
+TKT-2263,I need to add another user to my enterprise plan.,Account,Low
+TKT-2264,My account has been locked. Please unlock it.,Account,High
+TKT-2265,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2266,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2267,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2268,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2269,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2270,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2271,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2272,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-2273,I was overcharged on my last invoice by $262. Please refund.,Billing,High
+TKT-2274,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2275,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2276,"Hi, There is an unauthorized charge of $487 on my account.",Billing,High
+TKT-2277,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2278,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2279,Can you send me the receipt for order #9491?,Billing,Medium
+TKT-2280,Please help - I was overcharged on my last invoice by $379. Please refund.,Billing,High
+TKT-2281,The application keeps crashing on my Android phone.,Technical Issue,Low
+TKT-2282,URGENT: Do you offer a discount for non-profits?,General Query,Low
+TKT-2283,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2284,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2285,Can you delete my account permanently?,Account,Low
+TKT-2286,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2287,Can you send me the receipt for order #1546?,Billing,Medium
+TKT-2288,Can you send me the receipt for order #2015?,Billing,Low
+TKT-2289,"Just wondering, There is an unauthorized charge of $356 on my account.",Billing,Medium
+TKT-2290,I need to add another user to my enterprise plan.,Account,Low
+TKT-2291,My account has been locked. Please unlock it.,Account,High
+TKT-2292,"Just wondering, There is an unauthorized charge of $274 on my account.",Billing,High
+TKT-2293,Can you delete my account permanently?,Account,Low
+TKT-2294,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2295,There is an unauthorized charge of $169 on my account.,Billing,High
+TKT-2296,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2297,"Hello, There is an unauthorized charge of $14 on my account.",Billing,High
+TKT-2298,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2299,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2300,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2301,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2302,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2303,How do I change my email address?,Account,Low
+TKT-2304,Please help - I want to cancel my subscription and get a refund.,Billing,High
+TKT-2305,URGENT: I was overcharged on my last invoice by $309. Please refund.,Billing,High
+TKT-2306,Why is my credit card failing to process?,Billing,Medium
+TKT-2307,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2308,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2309,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2310,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2311,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-2312,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2313,Why is my credit card failing to process?,Billing,Medium
+TKT-2314,How do I change my email address?,Account,Low
+TKT-2315,How do I change my email address?,Account,Low
+TKT-2316,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2317,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2318,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2319,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2320,I was overcharged on my last invoice by $53. Please refund.,Billing,High
+TKT-2321,Please help - There is an unauthorized charge of $31 on my account.,Billing,High
+TKT-2322,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2323,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2324,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2325,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2326,How do I change my email address?,Account,Low
+TKT-2327,URGENT: What are your business hours?,General Query,Medium
+TKT-2328,"Just wondering, Can you delete my account permanently?",Account,Low
+TKT-2329,Is there a free trial available?,General Query,Low
+TKT-2330,There is an unauthorized charge of $129 on my account.,Billing,High
+TKT-2331,Please help - I forgot my password and the reset link is not working.,Account,Medium
+TKT-2332,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2333,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2334,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2335,There is an unauthorized charge of $310 on my account.,Billing,High
+TKT-2336,There is an unauthorized charge of $497 on my account.,Billing,High
+TKT-2337,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2338,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2339,I was overcharged on my last invoice by $63. Please refund.,Billing,High
+TKT-2340,"Just wondering, Can you send me the receipt for order #2138?",Billing,Medium
+TKT-2341,There is an unauthorized charge of $39 on my account.,Billing,Medium
+TKT-2342,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2343,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2344,There is an unauthorized charge of $304 on my account.,Billing,High
+TKT-2345,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2346,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2347,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2348,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2349,"Hello, There is an unauthorized charge of $137 on my account.",Billing,High
+TKT-2350,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2351,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2352,What are your business hours?,General Query,High
+TKT-2353,How do I change my email address?,Account,Low
+TKT-2354,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2355,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2356,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2357,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2358,Can you send me the receipt for order #9759?,Billing,Medium
+TKT-2359,"Hi, Can you send me the receipt for order #3514?",Billing,Medium
+TKT-2360,I need to add another user to my enterprise plan.,Account,Low
+TKT-2361,"Just wondering, I need to add another user to my enterprise plan.",Account,Low
+TKT-2362,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-2363,"Hello, I was overcharged on my last invoice by $18. Please refund.",Billing,High
+TKT-2364,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2365,Can you send me the receipt for order #1721?,Billing,Medium
+TKT-2366,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2367,"Hi, Where is your company located?",General Query,Low
+TKT-2368,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2369,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2370,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2371,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2372,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2373,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2374,"Hello, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2375,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2376,URGENT: There is an unauthorized charge of $29 on my account.,Billing,High
+TKT-2377,URGENT: There is an unauthorized charge of $172 on my account.,Billing,High
+TKT-2378,My account has been locked. Please unlock it.,Account,High
+TKT-2379,URGENT: Where is your company located?,General Query,Low
+TKT-2380,"Hello, I was overcharged on my last invoice by $332. Please refund.",Billing,High
+TKT-2381,Why is my credit card failing to process?,Billing,Low
+TKT-2382,"Hello, Can you delete my account permanently?",Account,Low
+TKT-2383,"Just wondering, How do I change my email address?",Account,Low
+TKT-2384,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2385,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2386,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2387,Can you delete my account permanently?,Account,Low
+TKT-2388,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2389,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2390,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2391,Is there a free trial available?,General Query,Low
+TKT-2392,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2393,URGENT: I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2394,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2395,"Hello, Where is your company located?",General Query,Low
+TKT-2396,Please help - I was overcharged on my last invoice by $318. Please refund.,Billing,High
+TKT-2397,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2398,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2399,I need to add another user to my enterprise plan.,Account,Low
+TKT-2400,Please help - How do I change my email address?,Account,Low
+TKT-2401,API endpoint /v1/users is returning a timeout.,Technical Issue,High
+TKT-2402,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2403,I was overcharged on my last invoice by $103. Please refund.,Billing,High
+TKT-2404,Why is my credit card failing to process?,Billing,Medium
+TKT-2405,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,High
+TKT-2406,Can you send me the receipt for order #4846?,Billing,Medium
+TKT-2407,"Hello, There is an unauthorized charge of $146 on my account.",Billing,High
+TKT-2408,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2409,URGENT: I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2410,"Hi, What are your business hours?",General Query,Low
+TKT-2411,"Hello, Do you offer a discount for non-profits?",General Query,Low
+TKT-2412,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2413,URGENT: There is an unauthorized charge of $241 on my account.,Billing,High
+TKT-2414,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2415,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2416,"Hello, Is there a free trial available?",General Query,Low
+TKT-2417,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2418,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2419,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2420,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2421,Where is your company located?,General Query,Low
+TKT-2422,Where is your company located?,General Query,Low
+TKT-2423,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2424,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2425,"Hi, How do I change my email address?",Account,Low
+TKT-2426,URGENT: I was overcharged on my last invoice by $184. Please refund.,Billing,High
+TKT-2427,Please help - What are your business hours?,General Query,Low
+TKT-2428,Where is your company located?,General Query,Low
+TKT-2429,URGENT: There is an unauthorized charge of $212 on my account.,Billing,High
+TKT-2430,"Hi, How do I change my email address?",Account,Low
+TKT-2431,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2432,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2433,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-2434,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-2435,URGENT: What are your business hours?,General Query,Low
+TKT-2436,"Hello, Can you delete my account permanently?",Account,Low
+TKT-2437,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2438,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2439,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2440,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2441,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2442,"Just wondering, Is there a free trial available?",General Query,Low
+TKT-2443,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2444,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2445,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2446,Please help - I want to cancel my subscription and get a refund.,Billing,High
+TKT-2447,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Low
+TKT-2448,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2449,"Hi, I want to cancel my subscription and get a refund.",Billing,Low
+TKT-2450,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2451,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2452,I was overcharged on my last invoice by $316. Please refund.,Billing,High
+TKT-2453,Why is my credit card failing to process?,Billing,Medium
+TKT-2454,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2455,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2456,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2457,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2458,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2459,"Just wondering, I love your product, just wanted to say thanks!",General Query,Low
+TKT-2460,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2461,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2462,Why is my credit card failing to process?,Billing,Medium
+TKT-2463,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2464,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2465,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2466,My account has been locked. Please unlock it.,Account,Medium
+TKT-2467,I was overcharged on my last invoice by $497. Please refund.,Billing,High
+TKT-2468,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2469,Please help - Can you delete my account permanently?,Account,High
+TKT-2470,There is an unauthorized charge of $422 on my account.,Billing,High
+TKT-2471,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2472,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2473,I need to add another user to my enterprise plan.,Account,Low
+TKT-2474,My account has been locked. Please unlock it.,Account,High
+TKT-2475,URGENT: My account has been locked. Please unlock it.,Account,High
+TKT-2476,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2477,"Hi, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2478,Where is your company located?,General Query,Low
+TKT-2479,Do you offer a discount for non-profits?,General Query,Low
+TKT-2480,Is there a free trial available?,General Query,Low
+TKT-2481,There is an unauthorized charge of $388 on my account.,Billing,Medium
+TKT-2482,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2483,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2484,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2485,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2486,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2487,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2488,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2489,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2490,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-2491,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2492,Why is my credit card failing to process?,Billing,Medium
+TKT-2493,Please help - I was overcharged on my last invoice by $462. Please refund.,Billing,High
+TKT-2494,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2495,"Hello, Is there a free trial available?",General Query,Low
+TKT-2496,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2497,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-2498,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2499,Please help - My account has been locked. Please unlock it.,Account,High
+TKT-2500,Why is my credit card failing to process?,Billing,Medium
+TKT-2501,I need to add another user to my enterprise plan.,Account,Low
+TKT-2502,Can you delete my account permanently?,Account,Low
+TKT-2503,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2504,"Hi, Is there a free trial available?",General Query,High
+TKT-2505,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2506,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2507,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-2508,Please help - There is an unauthorized charge of $251 on my account.,Billing,High
+TKT-2509,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2510,"Just wondering, My account has been locked. Please unlock it.",Account,High
+TKT-2511,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2512,I was overcharged on my last invoice by $390. Please refund.,Billing,High
+TKT-2513,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2514,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2515,There is an unauthorized charge of $291 on my account.,Billing,High
+TKT-2516,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2517,Where is your company located?,General Query,Low
+TKT-2518,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2519,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-2520,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Low
+TKT-2521,I need to add another user to my enterprise plan.,Account,Low
+TKT-2522,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2523,Why is my credit card failing to process?,Billing,Medium
+TKT-2524,"Hello, What are your business hours?",General Query,Low
+TKT-2525,Do you offer a discount for non-profits?,General Query,Medium
+TKT-2526,"Just wondering, I love your product, just wanted to say thanks!",General Query,Low
+TKT-2527,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2528,There is an unauthorized charge of $18 on my account.,Billing,High
+TKT-2529,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2530,There is an unauthorized charge of $147 on my account.,Billing,High
+TKT-2531,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2532,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2533,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2534,Please help - I forgot my password and the reset link is not working.,Account,Medium
+TKT-2535,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2536,Can you send me the receipt for order #7191?,Billing,High
+TKT-2537,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2538,"Hi, There is an unauthorized charge of $14 on my account.",Billing,High
+TKT-2539,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-2540,There is an unauthorized charge of $364 on my account.,Billing,High
+TKT-2541,"Hi, There is an unauthorized charge of $161 on my account.",Billing,High
+TKT-2542,URGENT: Is there a free trial available?,General Query,Low
+TKT-2543,I was overcharged on my last invoice by $460. Please refund.,Billing,High
+TKT-2544,"Hi, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2545,"Hello, How do I change my email address?",Account,Low
+TKT-2546,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2547,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2548,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-2549,"Hello, My account has been locked. Please unlock it.",Account,High
+TKT-2550,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2551,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2552,There is an unauthorized charge of $224 on my account.,Billing,High
+TKT-2553,Can you delete my account permanently?,Account,Low
+TKT-2554,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2555,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,Medium
+TKT-2556,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-2557,Can you send me the receipt for order #3344?,Billing,Medium
+TKT-2558,Your website is loading very slowly today.,Technical Issue,Low
+TKT-2559,Please help - I was overcharged on my last invoice by $197. Please refund.,Billing,High
+TKT-2560,Why is my credit card failing to process?,Billing,Medium
+TKT-2561,Can you send me the receipt for order #6526?,Billing,Medium
+TKT-2562,"Hello, I was overcharged on my last invoice by $89. Please refund.",Billing,High
+TKT-2563,Can you send me the receipt for order #7940?,Billing,Medium
+TKT-2564,"Hi, Where is your company located?",General Query,Low
+TKT-2565,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2566,Can you send me the receipt for order #2264?,Billing,Medium
+TKT-2567,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2568,I was overcharged on my last invoice by $65. Please refund.,Billing,High
+TKT-2569,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2570,Why is my credit card failing to process?,Billing,Medium
+TKT-2571,There is an unauthorized charge of $147 on my account.,Billing,High
+TKT-2572,URGENT: My account has been locked. Please unlock it.,Account,Medium
+TKT-2573,Can you delete my account permanently?,Account,Low
+TKT-2574,My account has been locked. Please unlock it.,Account,High
+TKT-2575,"Just wondering, I was overcharged on my last invoice by $423. Please refund.",Billing,High
+TKT-2576,"Hi, How do I change my email address?",Account,Low
+TKT-2577,"Just wondering, Where is your company located?",General Query,Low
+TKT-2578,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2579,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2580,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2581,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2582,URGENT: I forgot my password and the reset link is not working.,Account,Medium
+TKT-2583,I want to cancel my subscription and get a refund.,Billing,High
+TKT-2584,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2585,"Just wondering, What are your business hours?",General Query,Low
+TKT-2586,What are your business hours?,General Query,Low
+TKT-2587,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2588,Where is your company located?,General Query,Low
+TKT-2589,"Hi, Can you send me the receipt for order #5762?",Billing,Medium
+TKT-2590,"Just wondering, I was overcharged on my last invoice by $457. Please refund.",Billing,High
+TKT-2591,Please help - Do you offer a discount for non-profits?,General Query,Low
+TKT-2592,My account has been locked. Please unlock it.,Account,Medium
+TKT-2593,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2594,What are your business hours?,General Query,Low
+TKT-2595,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-2596,"Hello, My account has been locked. Please unlock it.",Account,High
+TKT-2597,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2598,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2599,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2600,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2601,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2602,"Hello, I was overcharged on my last invoice by $350. Please refund.",Billing,High
+TKT-2603,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2604,Is there a free trial available?,General Query,Low
+TKT-2605,Can you send me the receipt for order #4074?,Billing,Medium
+TKT-2606,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2607,The application keeps crashing on my Android phone.,Technical Issue,Medium
+TKT-2608,"Just wondering, I need to add another user to my enterprise plan.",Account,Low
+TKT-2609,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2610,Please help - There is an unauthorized charge of $314 on my account.,Billing,High
+TKT-2611,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2612,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2613,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2614,Please help - I need to add another user to my enterprise plan.,Account,Low
+TKT-2615,Is there a free trial available?,General Query,Low
+TKT-2616,My account has been locked. Please unlock it.,Account,High
+TKT-2617,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2618,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,High
+TKT-2619,My account has been locked. Please unlock it.,Account,High
+TKT-2620,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2621,"Hello, How do I change my email address?",Account,Low
+TKT-2622,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2623,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2624,"Just wondering, Can you send me the receipt for order #1420?",Billing,Low
+TKT-2625,Can you delete my account permanently?,Account,Low
+TKT-2626,Why is my credit card failing to process?,Billing,Medium
+TKT-2627,Can you send me the receipt for order #5018?,Billing,Medium
+TKT-2628,I was overcharged on my last invoice by $488. Please refund.,Billing,High
+TKT-2629,"Hello, I was overcharged on my last invoice by $245. Please refund.",Billing,High
+TKT-2630,"Hi, Why is my credit card failing to process?",Billing,Medium
+TKT-2631,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2632,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2633,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2634,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2635,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2636,"Hello, Why is my credit card failing to process?",Billing,High
+TKT-2637,I was overcharged on my last invoice by $256. Please refund.,Billing,High
+TKT-2638,"Hello, Can you send me the receipt for order #9123?",Billing,Medium
+TKT-2639,Can you send me the receipt for order #5605?,Billing,Medium
+TKT-2640,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2641,"Hello, Can you delete my account permanently?",Account,Low
+TKT-2642,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2643,There is an unauthorized charge of $219 on my account.,Billing,High
+TKT-2644,Do you offer a discount for non-profits?,General Query,Low
+TKT-2645,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Low
+TKT-2646,My account has been locked. Please unlock it.,Account,High
+TKT-2647,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2648,There is an unauthorized charge of $121 on my account.,Billing,High
+TKT-2649,Please help - Can you delete my account permanently?,Account,Low
+TKT-2650,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2651,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2652,I was overcharged on my last invoice by $20. Please refund.,Billing,High
+TKT-2653,What are your business hours?,General Query,Low
+TKT-2654,Please help - I was overcharged on my last invoice by $283. Please refund.,Billing,High
+TKT-2655,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2656,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2657,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2658,I was overcharged on my last invoice by $15. Please refund.,Billing,High
+TKT-2659,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2660,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2661,URGENT: I was overcharged on my last invoice by $411. Please refund.,Billing,Medium
+TKT-2662,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2663,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2664,I need to add another user to my enterprise plan.,Account,Low
+TKT-2665,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2666,I was overcharged on my last invoice by $145. Please refund.,Billing,High
+TKT-2667,"Hi, I was overcharged on my last invoice by $341. Please refund.",Billing,Medium
+TKT-2668,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2669,My account has been locked. Please unlock it.,Account,High
+TKT-2670,Please help - How do I change my email address?,Account,Low
+TKT-2671,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-2672,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2673,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2674,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2675,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2676,"Just wondering, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2677,There is an unauthorized charge of $321 on my account.,Billing,High
+TKT-2678,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2679,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2680,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2681,URGENT: How do I change my email address?,Account,Low
+TKT-2682,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2683,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2684,Why is my credit card failing to process?,Billing,Medium
+TKT-2685,"Hi, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2686,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2687,"Hello, How do I change my email address?",Account,Low
+TKT-2688,My account has been locked. Please unlock it.,Account,High
+TKT-2689,URGENT: What are your business hours?,General Query,Low
+TKT-2690,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2691,I need to add another user to my enterprise plan.,Account,Low
+TKT-2692,Why is my credit card failing to process?,Billing,Medium
+TKT-2693,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2694,Is there a free trial available?,General Query,Low
+TKT-2695,URGENT: I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2696,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2697,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2698,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2699,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2700,I was overcharged on my last invoice by $260. Please refund.,Billing,High
+TKT-2701,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2702,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2703,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2704,Can you send me the receipt for order #7328?,Billing,Medium
+TKT-2705,Can you delete my account permanently?,Account,Low
+TKT-2706,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2707,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2708,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2709,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2710,API endpoint /v1/users is returning a timeout.,Technical Issue,High
+TKT-2711,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2712,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2713,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2714,My account has been locked. Please unlock it.,Account,High
+TKT-2715,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2716,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2717,"Hi, Where is your company located?",General Query,Low
+TKT-2718,I forgot my password and the reset link is not working.,Account,High
+TKT-2719,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2720,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2721,My account has been locked. Please unlock it.,Account,High
+TKT-2722,"Hello, I need to add another user to my enterprise plan.",Account,Low
+TKT-2723,How do I change my email address?,Account,Low
+TKT-2724,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2725,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2726,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2727,There is an unauthorized charge of $165 on my account.,Billing,High
+TKT-2728,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2729,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2730,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2731,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2732,Is there a free trial available?,General Query,Low
+TKT-2733,There is an unauthorized charge of $372 on my account.,Billing,High
+TKT-2734,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2735,Please help - Why is my credit card failing to process?,Billing,High
+TKT-2736,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2737,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2738,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2739,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2740,Can you send me the receipt for order #3655?,Billing,Medium
+TKT-2741,I was overcharged on my last invoice by $308. Please refund.,Billing,High
+TKT-2742,"Hello, Can you delete my account permanently?",Account,Low
+TKT-2743,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2744,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2745,"Hi, How do I change my email address?",Account,Low
+TKT-2746,The application keeps crashing on my Android phone.,Technical Issue,Medium
+TKT-2747,URGENT: I was overcharged on my last invoice by $370. Please refund.,Billing,High
+TKT-2748,There is an unauthorized charge of $304 on my account.,Billing,High
+TKT-2749,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2750,URGENT: Do you offer a discount for non-profits?,General Query,Low
+TKT-2751,How do I change my email address?,Account,Low
+TKT-2752,Where is your company located?,General Query,Low
+TKT-2753,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2754,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2755,URGENT: Why is my credit card failing to process?,Billing,Medium
+TKT-2756,"Hello, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2757,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2758,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2759,Where is your company located?,General Query,Low
+TKT-2760,Why is my credit card failing to process?,Billing,Medium
+TKT-2761,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2762,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2763,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2764,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2765,I need to add another user to my enterprise plan.,Account,Low
+TKT-2766,"Just wondering, Can you delete my account permanently?",Account,Low
+TKT-2767,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2768,There is an unauthorized charge of $114 on my account.,Billing,High
+TKT-2769,I was overcharged on my last invoice by $200. Please refund.,Billing,High
+TKT-2770,URGENT: The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2771,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2772,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2773,URGENT: I was overcharged on my last invoice by $230. Please refund.,Billing,High
+TKT-2774,What are your business hours?,General Query,Low
+TKT-2775,I need to add another user to my enterprise plan.,Account,Low
+TKT-2776,Can you delete my account permanently?,Account,Low
+TKT-2777,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2778,I need to add another user to my enterprise plan.,Account,Low
+TKT-2779,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2780,"Just wondering, I want to cancel my subscription and get a refund.",Billing,Medium
+TKT-2781,There is an unauthorized charge of $147 on my account.,Billing,Medium
+TKT-2782,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2783,"Hi, There is an unauthorized charge of $193 on my account.",Billing,High
+TKT-2784,URGENT: I was overcharged on my last invoice by $322. Please refund.,Billing,High
+TKT-2785,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2786,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2787,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2788,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2789,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2790,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2791,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2792,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2793,"Just wondering, I love your product, just wanted to say thanks!",General Query,Low
+TKT-2794,How do I change my email address?,Account,Low
+TKT-2795,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2796,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2797,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2798,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2799,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2800,"Just wondering, Can you send me the receipt for order #8291?",Billing,Medium
+TKT-2801,There is an unauthorized charge of $195 on my account.,Billing,High
+TKT-2802,There is an unauthorized charge of $433 on my account.,Billing,High
+TKT-2803,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2804,There is an unauthorized charge of $219 on my account.,Billing,High
+TKT-2805,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2806,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2807,Why is my credit card failing to process?,Billing,Medium
+TKT-2808,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2809,My account has been locked. Please unlock it.,Account,High
+TKT-2810,What are your business hours?,General Query,Low
+TKT-2811,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2812,"Just wondering, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2813,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2814,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2815,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2816,Is there a free trial available?,General Query,Low
+TKT-2817,Please help - The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2818,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2819,"Just wondering, My account has been locked. Please unlock it.",Account,High
+TKT-2820,Please help - Can you delete my account permanently?,Account,Low
+TKT-2821,How do I change my email address?,Account,Low
+TKT-2822,"Hi, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2823,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-2824,My account has been locked. Please unlock it.,Account,High
+TKT-2825,"Just wondering, Why is my credit card failing to process?",Billing,Medium
+TKT-2826,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2827,Can you delete my account permanently?,Account,Low
+TKT-2828,"Hello, Why is my credit card failing to process?",Billing,Medium
+TKT-2829,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2830,There is an unauthorized charge of $111 on my account.,Billing,High
+TKT-2831,There is an unauthorized charge of $44 on my account.,Billing,High
+TKT-2832,There is an unauthorized charge of $362 on my account.,Billing,High
+TKT-2833,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2834,URGENT: I need to add another user to my enterprise plan.,Account,Low
+TKT-2835,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2836,I need to add another user to my enterprise plan.,Account,Low
+TKT-2837,"Hello, I was overcharged on my last invoice by $247. Please refund.",Billing,High
+TKT-2838,URGENT: Can you delete my account permanently?,Account,Low
+TKT-2839,URGENT: I was overcharged on my last invoice by $120. Please refund.,Billing,High
+TKT-2840,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2841,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2842,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2843,"Hi, Where is your company located?",General Query,Low
+TKT-2844,My account has been locked. Please unlock it.,Account,High
+TKT-2845,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2846,My account has been locked. Please unlock it.,Account,High
+TKT-2847,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2848,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2849,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2850,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,Low
+TKT-2851,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2852,Where is your company located?,General Query,Low
+TKT-2853,"Hi, I forgot my password and the reset link is not working.",Account,Medium
+TKT-2854,Please help - Can you send me the receipt for order #8723?,Billing,Medium
+TKT-2855,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2856,"Just wondering, Can you delete my account permanently?",Account,Low
+TKT-2857,Is there a free trial available?,General Query,Low
+TKT-2858,Please help - The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2859,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2860,My account has been locked. Please unlock it.,Account,High
+TKT-2861,Can you delete my account permanently?,Account,Low
+TKT-2862,There is an unauthorized charge of $117 on my account.,Billing,High
+TKT-2863,There is an unauthorized charge of $246 on my account.,Billing,High
+TKT-2864,"Hi, I need to add another user to my enterprise plan.",Account,Low
+TKT-2865,Why is my credit card failing to process?,Billing,Medium
+TKT-2866,Can you send me the receipt for order #7949?,Billing,Medium
+TKT-2867,Please help - API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2868,"I love your product, just wanted to say thanks!",General Query,Low
+TKT-2869,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2870,"URGENT: I love your product, just wanted to say thanks!",General Query,Low
+TKT-2871,Where is your company located?,General Query,Low
+TKT-2872,Why is my credit card failing to process?,Billing,Medium
+TKT-2873,Why is my credit card failing to process?,Billing,Medium
+TKT-2874,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2875,How do I change my email address?,Account,Low
+TKT-2876,URGENT: My account has been locked. Please unlock it.,Account,High
+TKT-2877,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2878,Why is my credit card failing to process?,Billing,Medium
+TKT-2879,"Hello, Can you delete my account permanently?",Account,Low
+TKT-2880,I was overcharged on my last invoice by $128. Please refund.,Billing,High
+TKT-2881,Please help - I want to cancel my subscription and get a refund.,Billing,High
+TKT-2882,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2883,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2884,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2885,Can you delete my account permanently?,Account,Low
+TKT-2886,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2887,I need to add another user to my enterprise plan.,Account,Low
+TKT-2888,Is there a free trial available?,General Query,Low
+TKT-2889,URGENT: What are your business hours?,General Query,Low
+TKT-2890,URGENT: The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2891,Can you send me the receipt for order #8843?,Billing,Low
+TKT-2892,Can you send me the receipt for order #1498?,Billing,Medium
+TKT-2893,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2894,"Hi, How do I change my email address?",Account,High
+TKT-2895,"Just wondering, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2896,How do I change my email address?,Account,Low
+TKT-2897,Is there a free trial available?,General Query,Low
+TKT-2898,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-2899,There is an unauthorized charge of $321 on my account.,Billing,High
+TKT-2900,URGENT: My account has been locked. Please unlock it.,Account,High
+TKT-2901,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2902,I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2903,"Hello, How do I change my email address?",Account,Low
+TKT-2904,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2905,"Hello, Can you send me the receipt for order #6169?",Billing,Medium
+TKT-2906,"Just wondering, Can you send me the receipt for order #5249?",Billing,Medium
+TKT-2907,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2908,Please help - Why is my credit card failing to process?,Billing,Medium
+TKT-2909,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2910,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2911,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2912,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2913,Please help - I want to cancel my subscription and get a refund.,Billing,Medium
+TKT-2914,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2915,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2916,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2917,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2918,"Just wondering, Is there a free trial available?",General Query,Low
+TKT-2919,"Just wondering, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2920,Where is your company located?,General Query,Low
+TKT-2921,"Hello, I was overcharged on my last invoice by $349. Please refund.",Billing,High
+TKT-2922,How do I change my email address?,Account,Low
+TKT-2923,I want to cancel my subscription and get a refund.,Billing,High
+TKT-2924,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2925,The application keeps crashing on my Android phone.,Technical Issue,Low
+TKT-2926,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2927,How do I change my email address?,Account,Low
+TKT-2928,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2929,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,Medium
+TKT-2930,The server is down and we cannot access our dashboard! Urgent!,Technical Issue,High
+TKT-2931,URGENT: Where is your company located?,General Query,Low
+TKT-2932,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2933,"Hello, The application keeps crashing on my Android phone.",Technical Issue,High
+TKT-2934,"Hi, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2935,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2936,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2937,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2938,URGENT: Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2939,How do I change my email address?,Account,Low
+TKT-2940,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Low
+TKT-2941,Please help - Can you send me the receipt for order #8454?,Billing,Medium
+TKT-2942,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2943,"Hi, My account has been locked. Please unlock it.",Account,High
+TKT-2944,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2945,"Hello, I'm getting a 500 internal server error when trying to upload a file.",Technical Issue,High
+TKT-2946,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2947,URGENT: There is an unauthorized charge of $432 on my account.,Billing,High
+TKT-2948,Can you send me the receipt for order #2656?,Billing,Medium
+TKT-2949,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2950,I need to add another user to my enterprise plan.,Account,Low
+TKT-2951,"Hi, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2952,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2953,URGENT: There is an unauthorized charge of $266 on my account.,Billing,High
+TKT-2954,I was overcharged on my last invoice by $218. Please refund.,Billing,High
+TKT-2955,URGENT: I was overcharged on my last invoice by $246. Please refund.,Billing,High
+TKT-2956,There is an unauthorized charge of $323 on my account.,Billing,High
+TKT-2957,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2958,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2959,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2960,"Just wondering, I love your product, just wanted to say thanks!",General Query,Low
+TKT-2961,"Just wondering, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2962,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2963,Why is my credit card failing to process?,Billing,Medium
+TKT-2964,"Hi, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2965,"Hello, API endpoint /v1/users is returning a timeout.",Technical Issue,Medium
+TKT-2966,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2967,Please help - Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2968,API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2969,The application keeps crashing on my Android phone.,Technical Issue,High
+TKT-2970,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2971,Your website is loading very slowly today.,Technical Issue,Medium
+TKT-2972,"Just wondering, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2973,The application keeps crashing on my Android phone.,Technical Issue,Low
+TKT-2974,URGENT: I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2975,I need to add another user to my enterprise plan.,Account,Low
+TKT-2976,"Hello, The server is down and we cannot access our dashboard! Urgent!",Technical Issue,High
+TKT-2977,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2978,Why is my credit card failing to process?,Billing,Medium
+TKT-2979,Can you send me the receipt for order #1529?,Billing,Medium
+TKT-2980,My account has been locked. Please unlock it.,Account,High
+TKT-2981,I forgot my password and the reset link is not working.,Account,Medium
+TKT-2982,I was overcharged on my last invoice by $425. Please refund.,Billing,High
+TKT-2983,URGENT: API endpoint /v1/users is returning a timeout.,Technical Issue,Medium
+TKT-2984,How do I change my email address?,Account,Low
+TKT-2985,"Hi, Why is my credit card failing to process?",Billing,Medium
+TKT-2986,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2987,"Hello, Your website is loading very slowly today.",Technical Issue,Medium
+TKT-2988,Why is my credit card failing to process?,Billing,Medium
+TKT-2989,Please help - Can you delete my account permanently?,Account,Low
+TKT-2990,I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2991,"Hi, Why is my credit card failing to process?",Billing,Medium
+TKT-2992,There is an unauthorized charge of $379 on my account.,Billing,High
+TKT-2993,URGENT: There is an unauthorized charge of $186 on my account.,Billing,High
+TKT-2994,Please help - I'm getting a 500 internal server error when trying to upload a file.,Technical Issue,Medium
+TKT-2995,"Hello, My account has been locked. Please unlock it.",Account,High
+TKT-2996,"Hi, Why is my credit card failing to process?",Billing,Medium
+TKT-2997,"Hi, How do I change my email address?",Account,Low
+TKT-2998,Your website is loading very slowly today.,Technical Issue,Low
+TKT-2999,I forgot my password and the reset link is not working.,Account,Medium

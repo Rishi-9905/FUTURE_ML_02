@@ -1,0 +1,33 @@
+Cleaning text data...
+Extracting TF-IDF features...
+Training Category Classifier...
+Training Priority Classifier...
+
+--- Category Classification Results ---
+Accuracy: 1.0000
+                 precision    recall  f1-score   support
+
+        Account       1.00      1.00      1.00        75
+        Billing       1.00      1.00      1.00       131
+  General Query       1.00      1.00      1.00        35
+Technical Issue       1.00      1.00      1.00       159
+
+       accuracy                           1.00       400
+      macro avg       1.00      1.00      1.00       400
+   weighted avg       1.00      1.00      1.00       400
+
+
+--- Priority Classification Results ---
+Accuracy: 0.9300
+              precision    recall  f1-score   support
+
+        High       0.91      0.96      0.93       120
+         Low       0.97      0.88      0.92        88
+      Medium       0.93      0.94      0.93       192
+
+    accuracy                           0.93       400
+   macro avg       0.94      0.92      0.93       400
+weighted avg       0.93      0.93      0.93       400
+
+Saved category matrix to category_confusion_matrix.png
+Saved priority matrix to priority_confusion_matrix.png
